@@ -1,8 +1,6 @@
 import javax.swing.JOptionPane;
-public class AirlineDialog
-{
-   public static void main(String[] args)
-   {
+public class AirlineDialog {
+   public static void main(String[] args) {
       int selection;
       boolean isYes;
       selection = JOptionPane.showConfirmDialog(null,

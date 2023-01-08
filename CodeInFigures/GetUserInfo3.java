@@ -1,8 +1,6 @@
 import java.util.Scanner;
-public class GetUserInfo3
-{
-   public static void main(String[] args)
-   {
+public class GetUserInfo3 {
+   public static void main(String[] args) {
       String name;
       int age;
       Scanner inputDevice = new Scanner(System.in);

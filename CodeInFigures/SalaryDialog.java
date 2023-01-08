@@ -1,8 +1,6 @@
 import javax.swing.JOptionPane;
-public class SalaryDialog
-{
-   public static void main(String[] args)
-   {
+public class SalaryDialog {
+   public static void main(String[] args) {
        String wageString, dependentsString;
        double wage, weeklyPay;
        int dependents;
